@@ -1,0 +1,4 @@
+1. Create a Repository
+2. Run the command line, make sure git is installed
+4. Copy Repo Link
+3  $git clone...
