@@ -1,0 +1,4 @@
+1. Créer un Repo
+2. Exécutez la ligne de commande, assurez-vous que git est installé
+4. Copier le lien de Repo
+3. $ git clone ...
