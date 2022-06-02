@@ -1,0 +1,3 @@
+Add the file you modified
+you add a commit for the file
+you push the file 
