@@ -1,0 +1,5 @@
+Repo : Julien
+Clone : Mago
+Modification : Florent
+Push : Jad
+Pull : Dushen
