@@ -6,4 +6,4 @@ Création d'un repository sur GitHub :
     - Vous pouvez également ajouter une description (optionel), choisir la visibilité, ajouter un "README" et d'autres options.
 - Cliquez sur le bouton vert "Create repository" pour finir la création de votre Repo.
 
-Bien joué, vous pouvez maintenant passer à l'étape 2 : Le clonage de votre dossier !!
+Bien joué ! Vous pouvez maintenant passer à l'étape 2 : Le clonage de votre dossier !!
