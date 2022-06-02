@@ -1,0 +1,3 @@
+On utilise le 'pull' pour télecharger les fichier à jour.
+Avant d'ajouter les nouveaux fichier on doit faire un pull, donc on utilise "git pull".
+C'est tout!

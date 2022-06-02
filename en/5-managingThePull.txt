@@ -1,0 +1,4 @@
+git pull is used to pull the files from the git repository to get the latest files.
+So before we add any files we have to pull the latest files.
+So we use "git pull" to pull.
+That's it!
