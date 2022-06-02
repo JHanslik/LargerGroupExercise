@@ -1,0 +1,9 @@
+Repository Creation on GitHub :
+- Once connected on your GitHub account and on the welcome page, click on your profil picture on the upper right.
+- Then, click on "Your Repositories".
+- You'll then arrive on you repositories page. Click on the green "New" button.
+- You're now on the creation page where you have to indicate the name of your repo.
+    - You can also add a description (optional), choose the visibility, add a "README", and more.
+- Click on the Green "Create Repository" button to complete the creation of your repo.
+
+Congrats ! You can now go to the 2nd step : Repository Cloning !!
