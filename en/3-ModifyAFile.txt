@@ -1,0 +1,3 @@
+Access the file we want to modify in the repo. folder on our computer
+Make the necessary changes
+Save data to the same file
