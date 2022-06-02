@@ -1,3 +1,0 @@
-1 - Accéder au fichier que l'on veux modifier dans le dossier du repo. sur notre ordinateur
-2 - Faire les modifications nécessaires
-3 - Sauvegarder les données sur le même fichier

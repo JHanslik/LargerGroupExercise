@@ -1,0 +1,4 @@
+Ajouter une nouvelle version  du projet avec la commande git add .
+Ajouter un commit pour décrire la version faite avec la commande git commit.
+Verifier si la version qu'on a est déjà mise à jour avec la commande git pull.
+Pousser le fichier/la version faite avec la commande git push.
